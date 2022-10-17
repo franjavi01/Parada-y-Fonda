@@ -102,6 +102,23 @@ html {
       color:purple;
       
   }
+
+  #qr{
+    
+    padding:20px;
+    width:200px;
+    height:200px;
+    display:block;
+    
+    text-decoration:none;
+    color:white;
+    text-align: center;
+    box-shadow:2px 2px 5px black;
+    
+    position:fixed;
+    bottom:200px;
+    right:10px;
+}
   
   
   #guasa i{
